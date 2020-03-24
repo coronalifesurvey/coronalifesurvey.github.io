@@ -17,7 +17,7 @@ etc.
 
 ### List of participating scientists
 
-| Name 	| Institution (as you want it displayed) 	|
+| Name 	| Institution	|
 |-----------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Andreas Lieberoth 	| Aarhus University. Department of Culture and Society 	|
 | Dmitrii Dubrov 	| National Research University Higher School of Economics 	|
