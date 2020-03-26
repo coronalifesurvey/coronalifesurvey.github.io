@@ -8,39 +8,63 @@ Researchers across the globe have come together to create this survey. It contai
 
 ### Find your language below, of click here to go to the survey now (link to follow)
 
-[Language A](https://coronalifesurvey.github.io/)
+ [Albanian] (https://coronalifesurvey.github.io/)
 
-[Language B](https://coronalifesurvey.github.io/)
+ [Bangla] (https://coronalifesurvey.github.io/)
 
- [Albanian] 
- [Bangla] 
- [Brazilian Portugese] 
- [Chinese_simplified] 
- [Chinese_traditional] 
- [Croatian] 
- [Czech] 
- [Danish] 
- [Dutch] 
- [Dutch Belgian] 
- [English] 
- [Filipino] 
- [French] 
- [German] 
- [Hindi] 
- [Indonesian] 
- [Italian] 
- [Japanese] 
- [Korean] 
- [Lithuanian] 
- [Polish] 
- [Portugese] 
- [Russian] 
- [Spanish_mexico] 
- [Spanish-Argentina] 
- [Spanish-Cuba] 
- [Spanish-Spain] 
- [Urdu] 
- [Vietnamese] 
+ [Brazilian Portugese] (https://coronalifesurvey.github.io/)
+
+ [Chinese_simplified] (https://coronalifesurvey.github.io/)
+
+ [Chinese_traditional] (https://coronalifesurvey.github.io/)
+
+ [Croatian] (https://coronalifesurvey.github.io/)
+
+ [Czech] (https://coronalifesurvey.github.io/)
+
+ [Danish] (https://coronalifesurvey.github.io/)
+
+ [Dutch] (https://coronalifesurvey.github.io/)
+
+ [Dutch Belgian] (https://coronalifesurvey.github.io/)
+
+ [English] (https://coronalifesurvey.github.io/)
+
+ [Filipino] (https://coronalifesurvey.github.io/)
+
+ [French] (https://coronalifesurvey.github.io/)
+
+ [German] (https://coronalifesurvey.github.io/)
+
+ [Hindi] (https://coronalifesurvey.github.io/)
+
+ [Indonesian] (https://coronalifesurvey.github.io/)
+
+ [Italian] (https://coronalifesurvey.github.io/)
+
+ [Japanese] (https://coronalifesurvey.github.io/)
+
+ [Korean] (https://coronalifesurvey.github.io/)
+
+ [Lithuanian] (https://coronalifesurvey.github.io/)
+
+ [Polish] (https://coronalifesurvey.github.io/)
+
+ [Portugese] (https://coronalifesurvey.github.io/)
+
+ [Russian] (https://coronalifesurvey.github.io/)
+
+ [Spanish-mexico] (https://coronalifesurvey.github.io/)
+
+ [Spanish-Argentina] (https://coronalifesurvey.github.io/)
+
+ [Spanish-Cuba] (https://coronalifesurvey.github.io/)
+
+ [Spanish-Spain] (https://coronalifesurvey.github.io/)
+
+ [Urdu] (https://coronalifesurvey.github.io/)
+
+ [Vietnamese] (https://coronalifesurvey.github.io/)
 
 
 ### List of participating scientists
