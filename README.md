@@ -14,7 +14,7 @@ B [Bangla](https://coronalifesurvey.github.io/),  [Brazilian Portugese](https://
 
 C [Chinese_simplified](https://coronalifesurvey.github.io/),  [Chinese_traditional](https://coronalifesurvey.github.io/),  [Croatian](https://coronalifesurvey.github.io/),  [Czech](https://coronalifesurvey.github.io/)
 
-D [Danish](https://coronalifesurvey.github.io/),  [Dutch](https://coronalifesurvey.github.io/).  [Dutch Belgian](https://coronalifesurvey.github.io/)
+D [Danish](https://coronalifesurvey.github.io/),  [Dutch](https://coronalifesurvey.github.io/),  [Dutch Belgian](https://coronalifesurvey.github.io/)
 
 E [English](https://coronalifesurvey.github.io/)
 
