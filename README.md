@@ -12,7 +12,35 @@ Researchers across the globe have come together to create this survey. It contai
 
 [Language B](https://coronalifesurvey.github.io/)
 
-etc.
+ [Albanian] 
+ [Bangla] 
+ [Brazilian Portugese] 
+ [Chinese_simplified] 
+ [Chinese_traditional] 
+ [Croatian] 
+ [Czech] 
+ [Danish] 
+ [Dutch] 
+ [Dutch Belgian] 
+ [English] 
+ [Filipino] 
+ [French] 
+ [German] 
+ [Hindi] 
+ [Indonesian] 
+ [Italian] 
+ [Japanese] 
+ [Korean] 
+ [Lithuanian] 
+ [Polish] 
+ [Portugese] 
+ [Russian] 
+ [Spanish_mexico] 
+ [Spanish-Argentina] 
+ [Spanish-Cuba] 
+ [Spanish-Spain] 
+ [Urdu] 
+ [Vietnamese] 
 
 
 ### List of participating scientists
